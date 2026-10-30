@@ -5,440 +5,454 @@
     <link>https://runonvps.com/</link>
     <description>Minimum and recommended VPS requirements for self-hosted apps, checked against primary sources where available.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 02:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 02:16:57 GMT</lastBuildDate>
     <item>
       <title>n8n VPS requirements</title>
       <link>https://runonvps.com/apps/n8n/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/n8n/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Fair-code workflow automation platform with native AI capabilities and 400+ integrations</description>
     </item>
     <item>
       <title>Open WebUI VPS requirements</title>
       <link>https://runonvps.com/apps/open-webui/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/open-webui/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Self-hosted AI platform and chat interface for Ollama and OpenAI-compatible APIs with built-in RAG</description>
     </item>
     <item>
       <title>Coolify VPS requirements</title>
       <link>https://runonvps.com/apps/coolify/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/coolify/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Self-hostable PaaS alternative to Vercel/Heroku/Netlify to deploy apps/databases and 360+ one-click services</description>
     </item>
     <item>
       <title>Dify VPS requirements</title>
       <link>https://runonvps.com/apps/dify/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/dify/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Open-source LLM app development platform combining AI workflow/RAG pipeline/agent capabilities and model management</description>
     </item>
     <item>
       <title>AnythingLLM VPS requirements</title>
       <link>https://runonvps.com/apps/anythingllm/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/anythingllm/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>All-in-one local-first AI app to chat with documents and build agents with multi-user support</description>
     </item>
     <item>
       <title>LibreChat VPS requirements</title>
       <link>https://runonvps.com/apps/librechat/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/librechat/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Self-hosted AI chat platform (enhanced ChatGPT clone) unifying major AI providers with agents and MCP support</description>
     </item>
     <item>
       <title>Dokploy VPS requirements</title>
       <link>https://runonvps.com/apps/dokploy/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/dokploy/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Free self-hostable PaaS (open-source alternative to Vercel/Netlify/Heroku) to deploy and manage apps and databases</description>
     </item>
     <item>
       <title>Ollama VPS requirements</title>
       <link>https://runonvps.com/apps/ollama/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/ollama/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Runtime to run open LLMs locally or in the cloud with a simple CLI and REST API</description>
     </item>
     <item>
       <title>Plane VPS requirements</title>
       <link>https://runonvps.com/apps/plane/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/plane/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Open-source project management platform (Jira/Linear alternative) for tasks/cycles/docs and triage</description>
     </item>
     <item>
       <title>Immich VPS requirements</title>
       <link>https://runonvps.com/apps/immich/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/immich/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>High performance self-hosted photo and video management solution</description>
     </item>
     <item>
       <title>Jellyfin VPS requirements</title>
       <link>https://runonvps.com/apps/jellyfin/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/jellyfin/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>The Free Software Media System for managing and streaming your media</description>
     </item>
     <item>
       <title>Navidrome VPS requirements</title>
       <link>https://runonvps.com/apps/navidrome/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/navidrome/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Web-based music collection server and streamer — your personal Spotify</description>
     </item>
     <item>
       <title>Nextcloud VPS requirements</title>
       <link>https://runonvps.com/apps/nextcloud/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/nextcloud/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Self-hosted file sync share and collaboration platform — a safe home for all your data</description>
     </item>
     <item>
       <title>Seafile VPS requirements</title>
       <link>https://runonvps.com/apps/seafile/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/seafile/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Open-source cloud storage system with file sync sharing and team collaboration</description>
     </item>
     <item>
       <title>PhotoPrism VPS requirements</title>
       <link>https://runonvps.com/apps/photoprism/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/photoprism/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>AI-powered photos app for browsing organizing and sharing photos and videos</description>
     </item>
     <item>
       <title>Audiobookshelf VPS requirements</title>
       <link>https://runonvps.com/apps/audiobookshelf/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/audiobookshelf/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Self-hosted audiobook and podcast server</description>
     </item>
     <item>
       <title>Komga VPS requirements</title>
       <link>https://runonvps.com/apps/komga/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/komga/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Media server for comics mangas BDs magazines and eBooks with OPDS Kobo and KOReader sync</description>
     </item>
     <item>
       <title>Stirling-PDF VPS requirements</title>
       <link>https://runonvps.com/apps/stirling-pdf/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/stirling-pdf/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Locally hosted PDF toolkit with 50+ tools to merge split convert OCR and compress PDFs</description>
     </item>
     <item>
       <title>Vaultwarden VPS requirements</title>
       <link>https://runonvps.com/apps/vaultwarden/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/vaultwarden/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Unofficial Bitwarden-compatible password manager server written in Rust</description>
     </item>
     <item>
       <title>Actual Budget VPS requirements</title>
       <link>https://runonvps.com/apps/actual-budget/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/actual-budget/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Local-first personal finance app with envelope budgeting</description>
     </item>
     <item>
       <title>Firefly III VPS requirements</title>
       <link>https://runonvps.com/apps/firefly-iii/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/firefly-iii/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Free and open-source personal finances manager with double-entry bookkeeping</description>
     </item>
     <item>
       <title>BookStack VPS requirements</title>
       <link>https://runonvps.com/apps/bookstack/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/bookstack/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Self-hosted platform for organising and storing documentation and wiki content</description>
     </item>
     <item>
       <title>Trilium Notes VPS requirements</title>
       <link>https://runonvps.com/apps/trilium-notes/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/trilium-notes/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Hierarchical personal knowledge base and note-taking app</description>
     </item>
     <item>
       <title>Memos VPS requirements</title>
       <link>https://runonvps.com/apps/memos/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/memos/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Open-source self-hosted note-taking tool built for quick capture</description>
     </item>
     <item>
       <title>Paperless-ngx VPS requirements</title>
       <link>https://runonvps.com/apps/paperless-ngx/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/paperless-ngx/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Document management system that scans indexes and archives documents with OCR</description>
     </item>
     <item>
       <title>Outline VPS requirements</title>
       <link>https://runonvps.com/apps/outline/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/outline/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Fast collaborative team knowledge base and wiki</description>
     </item>
     <item>
       <title>Joplin Server VPS requirements</title>
       <link>https://runonvps.com/apps/joplin-server/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/joplin-server/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Self-hosted sync and sharing server for the Joplin note-taking app</description>
     </item>
     <item>
       <title>Wallabag VPS requirements</title>
       <link>https://runonvps.com/apps/wallabag/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/wallabag/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Self-hostable read-it-later app for saving and archiving web articles</description>
     </item>
     <item>
       <title>Uptime Kuma VPS requirements</title>
       <link>https://runonvps.com/apps/uptime-kuma/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/uptime-kuma/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Easy-to-use self-hosted uptime monitoring tool with status pages</description>
     </item>
     <item>
       <title>Plausible VPS requirements</title>
       <link>https://runonvps.com/apps/plausible/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/plausible/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Privacy-first lightweight web analytics; cookie-free Google Analytics alternative</description>
     </item>
     <item>
       <title>Umami VPS requirements</title>
       <link>https://runonvps.com/apps/umami/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/umami/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Privacy-first web and product analytics platform</description>
     </item>
     <item>
       <title>Portainer VPS requirements</title>
       <link>https://runonvps.com/apps/portainer/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/portainer/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Lightweight container management UI for Docker Swarm Podman and Kubernetes</description>
     </item>
     <item>
       <title>Netdata VPS requirements</title>
       <link>https://runonvps.com/apps/netdata/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/netdata/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Real-time per-second infrastructure monitoring and observability platform</description>
     </item>
     <item>
       <title>Beszel VPS requirements</title>
       <link>https://runonvps.com/apps/beszel/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/beszel/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Lightweight server monitoring with historical data Docker stats and alerts</description>
     </item>
     <item>
       <title>Nginx Proxy Manager VPS requirements</title>
       <link>https://runonvps.com/apps/nginx-proxy-manager/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/nginx-proxy-manager/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Web UI for managing Nginx reverse proxy hosts with free SSL</description>
     </item>
     <item>
       <title>AdGuard Home VPS requirements</title>
       <link>https://runonvps.com/apps/adguard-home/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/adguard-home/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Network-wide ads and trackers blocking DNS server</description>
     </item>
     <item>
       <title>Pi-hole VPS requirements</title>
       <link>https://runonvps.com/apps/pi-hole/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/pi-hole/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Network-wide ad blocking via a DNS sinkhole</description>
     </item>
     <item>
       <title>Grafana VPS requirements</title>
       <link>https://runonvps.com/apps/grafana/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/grafana/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Open observability and data visualization platform for metrics logs and traces</description>
     </item>
     <item>
       <title>WordPress VPS requirements</title>
       <link>https://runonvps.com/apps/wordpress/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/wordpress/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Open-source CMS and blogging platform</description>
     </item>
     <item>
       <title>Ghost VPS requirements</title>
       <link>https://runonvps.com/apps/ghost/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/ghost/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Modern publishing platform with memberships and newsletters</description>
     </item>
     <item>
       <title>Mastodon VPS requirements</title>
       <link>https://runonvps.com/apps/mastodon/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/mastodon/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Self-hosted federated microblogging community</description>
     </item>
     <item>
       <title>Lemmy VPS requirements</title>
       <link>https://runonvps.com/apps/lemmy/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/lemmy/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Decentralised discussion platform for communities</description>
     </item>
     <item>
       <title>Gitea VPS requirements</title>
       <link>https://runonvps.com/apps/gitea/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/gitea/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Painless self-hosted all-in-one software development service (Git hosting)</description>
     </item>
     <item>
       <title>Cal.com VPS requirements</title>
       <link>https://runonvps.com/apps/cal-com/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/cal-com/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Scheduling infrastructure for absolutely everyone</description>
     </item>
     <item>
       <title>Listmonk VPS requirements</title>
       <link>https://runonvps.com/apps/listmonk/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/listmonk/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>High-performance self-hosted newsletter and mailing list manager</description>
     </item>
     <item>
       <title>FreshRSS VPS requirements</title>
       <link>https://runonvps.com/apps/freshrss/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/freshrss/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Free self-hostable RSS news aggregator</description>
     </item>
     <item>
       <title>changedetection.io VPS requirements</title>
       <link>https://runonvps.com/apps/changedetection-io/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/changedetection-io/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Website change detection and change alerts</description>
     </item>
     <item>
       <title>Miniflux VPS requirements</title>
       <link>https://runonvps.com/apps/miniflux/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/miniflux/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Minimalist and opinionated feed reader</description>
     </item>
     <item>
       <title>Activepieces VPS requirements</title>
       <link>https://runonvps.com/apps/activepieces/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/activepieces/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Open-source workflow/business automation platform with a visual flow builder and 200+ integrations</description>
     </item>
     <item>
       <title>SFTPGo VPS requirements</title>
       <link>https://runonvps.com/apps/sftpgo/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/sftpgo/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Fully featured SFTP/FTPS/WebDAV/HTTP file transfer server with web admin and S3/GCS/Azure backends</description>
     </item>
     <item>
       <title>Syncthing VPS requirements</title>
       <link>https://runonvps.com/apps/syncthing/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/syncthing/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Open source continuous file synchronization across your own devices — no cloud in between</description>
     </item>
     <item>
       <title>SearXNG VPS requirements</title>
       <link>https://runonvps.com/apps/searxng/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/searxng/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Free internet metasearch engine that aggregates results from many search services — users are neither tracked nor profiled</description>
     </item>
     <item>
       <title>PocketBase VPS requirements</title>
       <link>https://runonvps.com/apps/pocketbase/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/pocketbase/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Open source realtime backend in a single file: embedded SQLite database, realtime subscriptions, auth management and dashboard UI</description>
     </item>
     <item>
       <title>Matomo VPS requirements</title>
       <link>https://runonvps.com/apps/matomo/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/matomo/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Privacy-friendly open-source web analytics platform, the leading Google Analytics alternative with full data control</description>
     </item>
     <item>
       <title>AFFiNE VPS requirements</title>
       <link>https://runonvps.com/apps/affine/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/affine/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Open-source workspace combining docs, whiteboards and databases — a self-hosted Notion alternative</description>
     </item>
     <item>
       <title>Linkwarden VPS requirements</title>
       <link>https://runonvps.com/apps/linkwarden/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/linkwarden/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Self-hosted collaborative bookmark manager that collects, organizes and archives webpages</description>
     </item>
     <item>
       <title>Homepage VPS requirements</title>
       <link>https://runonvps.com/apps/homepage/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/homepage/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Highly customizable homelab dashboard and startpage with Docker and service API integrations</description>
     </item>
     <item>
       <title>Shlink VPS requirements</title>
       <link>https://runonvps.com/apps/shlink/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/shlink/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>The definitive self-hosted URL shortener with API, QR codes and visit analytics</description>
     </item>
     <item>
       <title>Dockge VPS requirements</title>
       <link>https://runonvps.com/apps/dockge/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/dockge/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Fancy, easy-to-use self-hosted docker compose.yaml stack-oriented manager</description>
     </item>
     <item>
       <title>Kavita VPS requirements</title>
       <link>https://runonvps.com/apps/kavita/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/kavita/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Fast, feature-rich, cross-platform reading server for manga, comics and books</description>
     </item>
     <item>
       <title>Vikunja VPS requirements</title>
       <link>https://runonvps.com/apps/vikunja/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/vikunja/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>The task manager you actually own, with projects, tasks, calendars and Kanban boards</description>
     </item>
     <item>
       <title>IT-Tools VPS requirements</title>
       <link>https://runonvps.com/apps/it-tools/</link>
       <guid isPermaLink="true">https://runonvps.com/apps/it-tools/</guid>
-      <pubDate>Thu, 29 Oct 2026 02:16:03 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
       <description>Collection of handy online tools for developers, with great UX</description>
+    </item>
+    <item>
+      <title>Homarr VPS requirements</title>
+      <link>https://runonvps.com/apps/homarr/</link>
+      <guid isPermaLink="true">https://runonvps.com/apps/homarr/</guid>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
+      <description>Modern drag-and-drop homelab dashboard with 80+ service integrations and no YAML configuration</description>
+    </item>
+    <item>
+      <title>Glance VPS requirements</title>
+      <link>https://runonvps.com/apps/glance/</link>
+      <guid isPermaLink="true">https://runonvps.com/apps/glance/</guid>
+      <pubDate>Fri, 30 Oct 2026 02:16:57 GMT</pubDate>
+      <description>Lightweight self-hosted dashboard that puts RSS feeds, calendars, weather and server stats in one page</description>
     </item>
   </channel>
 </rss>
